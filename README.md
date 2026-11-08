@@ -26,19 +26,19 @@ HealthMate는 100가지 주요 질환 정보, 위치 기반 약국 및 병원 �
 ## 구현 결과
 
 ### 홈페이지 화면
-./images/홈페이지 화면.png
+![홈페이지 화면](./images/홈페이지_화면.png)
 
 ### 질병 정보
-./images/질병_정보.png
+![질병 정보](./images/질병_정보.png)
 
 ### 약국 위치 조회
-./images/약국_위치_조회.png
+![약국 위치 조회](./images/약국_위치_조회.png)
 
 ### 병원 위치 조회
-./images/병원_위치_조회.png
+![병원 위치 조회](./images/병원_위치_조회.png)
 
 ### 진료 예약
-./images/진료_예약.png
+![진료 예약](./images/진료_예약.png)
 
 ### AI 챗봇
-./images/AI_챗봇.png
+![AI 챗봇](./images/AI_챗봇.png)
