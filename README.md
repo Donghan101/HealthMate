@@ -41,4 +41,4 @@ HealthMate는 100가지 주요 질환 정보, 위치 기반 약국 및 병원 �
 <img src="./images/진료_예약.png" width="300" alt="진료 예약">
 
 ### AI 챗봇
-<img src="./images/AI_챗봇.png" width="600" alt="AI 챗봇">
+<img src="./images/AI_챗봇.png" width="300" alt="AI 챗봇">
