@@ -1,0 +1,38 @@
+.disease-page {
+  padding: 20px;
+  max-width: 900px;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+}
+
+/* 제목 가운데 정렬 */
+.disease-page h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* 검색창 가운데 정렬 */
+.search-box {
+  display: block;
+  width: 71%;
+  margin: 0 auto 30px auto;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.disease-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.disease-card {
+  width: 70%;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+  margin: 0 auto;
+}
