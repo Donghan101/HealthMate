@@ -29,7 +29,7 @@ HealthMate는 100가지 주요 질환 정보, 위치 기반 약국 및 병원 �
 <img src="./images/홈페이지_화면.png" width="600" alt="홈페이지 화면">
 
 ### 질병 정보
-<img src="./images/질병_정보.png" width="600" alt="질병 정보">
+<img src="./images/질병_정보.png" width="300" alt="질병 정보">
 
 ### 약국 위치 조회
 <img src="./images/약국_위치_조회.png" width="600" alt="약국 위치 조회">
@@ -41,4 +41,4 @@ HealthMate는 100가지 주요 질환 정보, 위치 기반 약국 및 병원 �
 <img src="./images/진료_예약.png" width="300" alt="진료 예약">
 
 ### AI 챗봇
-<img src="./images/AI_챗봇.png" width="300" alt="AI 챗봇">
+<img src="./images/AI_챗봇.png" width="400" alt="AI 챗봇">
