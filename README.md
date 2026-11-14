@@ -47,21 +47,21 @@ HealthMate는 100가지 주요 질환 정보, 위치 기반 약국 및 병원 �
 ```text
 HealthMate/
 ├── backend/
-│   ├── 1.병원정보서비스 2025.3.xlsx    # 전국 병원 정보 공공데이터 원본 (Excel)
-│   ├── 2.약국정보서비스 2025.3.xlsx    # 전국 약국 정보 공공데이터 원본 (Excel)
-│   ├── app.py                        # FastAPI 백엔드 서버 (질환 및 API 처리)
+│   ├── 1.병원정보서비스 2025.3.xlsx    # 전국 병원 정보 공공데이터 원본
+│   ├── 2.약국정보서비스 2025.3.xlsx    # 전국 약국 정보 공공데이터 원본
+│   ├── app.py                        # FastAPI 백엔드 서버
 │   ├── create_db.py                  # 질병 텍스트 데이터를 SQLite DB로 변환하는 스크립트
 │   ├── diseases.db                   # 질환 정보 SQLite 데이터베이스
 │   ├── excelToHospital.js            # 병원 엑셀 데이터를 JS 데이터로 변환하는 스크립트
 │   ├── excelToPharmacy.js            # 약국 엑셀 데이터를 JS 데이터로 변환하는 스크립트
-│   ├── server.js                     # Node.js 백엔드 서버 (OpenAI 챗봇 API 연동)
+│   ├── server.js                     # Node.js 백엔드 서버
 │   ├── .env.example                  # 백엔드 환경변수 설정 예시
 │   ├── package.json                  # Node.js 백엔드 의존성 패키지 목록
 │   └── package-lock.json
 ├── frontend/
 │   ├── public/
 │   │   ├── favicon.ico
-│   │   ├── index.html                # 메인 HTML 템플릿 (Kakao Maps SDK 로드)
+│   │   ├── index.html                # 메인 HTML 템플릿
 │   │   ├── logo192.png
 │   │   ├── logo512.png
 │   │   ├── manifest.json
@@ -105,8 +105,6 @@ HealthMate/
 │   └── 홈페이지_화면.png                # 메인 홈페이지 화면 캡처
 ├── diseases.db                       # 루트 경로 SQLite 데이터베이스 백업
 ├── 질병 데이터.txt                     # 주요 질환 기초 텍스트 데이터
-├── 졸업작품_포스터.pdf                  # 졸업작품 전시회 포스터 (PDF)
-├── 프로젝트_결과_보고서.pdf              # 최종 프로젝트 결과보고서 (PDF)
 ├── package.json                      # 루트 프로젝트 패키지 설정
 ├── package-lock.json
 └── README.md                         # 프로젝트 소개 및 실행 가이드
