@@ -113,6 +113,7 @@ HealthMate/
 
 ## 실행 방법
 
+```bash
 ### 1. 저장소 클론
 git clone [https://github.com/본인아이디/저장소이름.git](https://github.com/본인아이디/저장소이름.git)
 cd HealthMate
