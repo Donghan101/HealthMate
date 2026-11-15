@@ -108,11 +108,11 @@ HealthMate/
 ├── package.json                      # 루트 프로젝트 패키지 설정
 ├── package-lock.json
 └── README.md                         # 프로젝트 소개 및 실행 가이드
+```
 
 
 ## 실행 방법
 
-```bash
 # 1. 저장소 클론
 git clone [https://github.com/본인아이디/저장소이름.git](https://github.com/본인아이디/저장소이름.git)
 cd HealthMate
