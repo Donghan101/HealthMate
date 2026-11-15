@@ -135,4 +135,4 @@ cd frontend
 npm install
 npm start
 
-npm start 실행 후 웹 브라우저에서 http://localhost:3000으로 접속하여 서비스를 이용할 수 있습니다.
+npm start 실행 후 웹 브라우저에서 http://localhost:3000 으로 접속하여 서비스를 이용할 수 있습니다.
