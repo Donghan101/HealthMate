@@ -113,16 +113,18 @@ HealthMate/
 
 ## 실행 방법
 
-```bash
 ### 1. 저장소 클론
+```bash
 git clone [https://github.com/본인아이디/저장소이름.git](https://github.com/본인아이디/저장소이름.git)
 cd HealthMate
+```
 
 ### 2. 환경변수 설정
   - backend/.env  -> OPENAI_API_KEY=발급받은_OpenAI_API_키
   - frontend/.env -> REACT_APP_KAKAO_MAP_KEY=발급받은_카카오맵_JavaScript_키
 
 ### 3. 백엔드 실행
+```bash
 cd backend
 pip install fastapi uvicorn
 uvicorn app:app --reload
@@ -130,10 +132,13 @@ uvicorn app:app --reload
 cd backend
 npm install
 node server.js
+```
 
 ### 4. 프론트엔드 실행
+```bash
 cd frontend
 npm install
 npm start
+```
 
 npm start 실행 후 웹 브라우저에서 http://localhost:3000 으로 접속하여 서비스를 이용할 수 있습니다.
